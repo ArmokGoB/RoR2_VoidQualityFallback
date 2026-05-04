@@ -1,2 +1,11 @@
-# RoR2_VoidQualityFallback
-Fallback for void item conversion when using the Risk of Rain 2 Quality mod
+# Void Quality Fallback
+This is a mod that adds fallback compatibility to [Goorakh's Quality mod for Risk of Rain 2](https://thunderstore.io/package/Goorakh/Quality/). This affects modded void items that do not have a quality variant, such as those from [VanillaVoid](https://thunderstore.io/package/Zenithrium/VanillaVoid/) and [Nautilus](https://thunderstore.io/package/hex3/Nautilus/).
+
+## Functionality
+As of 2026-05-04, the current functionality of Quality and mods that add void items do not account for one another. This causes quality variants of items with a modded void variant to not convert. This can lead to item combinations that should not be possible, such as having Abyss-Touched Adze alongside quality Crowbar. This mod causes the game to check if the player has quality items with a void variant. If the void variant does not have quality variants added via Quality or another mod, it replaces all of the quality and non-quality items with the non-quality void variant. As compensation for the lost quality, it awards the player with scrap of equal rarity and one quality tier lower than the converted items, or non-quality scrap if the converted item was of uncommon quality.
+
+### Example
+The player has one non-quality Crowbar, two Uncommon Crowbars, and one Legendary Crowbar. The player then picks up an Abyss-Touched Adze from a Void Cradle. The Abyss-Touched Adze converts the existing Crowbars into four additional Abyss-Touched Adzes. The player is then given two non-quality Common Scrap and one Epic Common Scrap.
+
+## Balance
+This mod provides the player with compensation, in the form of scrap, in exchange for removing the quality of the converted items. This is to account for the drop in power level caused by the loss of quality items. While the player could hope for a specific 3D Printer or Cauldron to use their scrap at, there is no guarantee that they will get one that accepts their type of scrap, nor is there a guarantee that any given printer will give items that will meaningfully impact their character in a positive way. However, it is possible they could get lucky and scale significantly from taking the correct void items. As such, this is a gambit with a potential payoff and not a guaranteed power spike.
