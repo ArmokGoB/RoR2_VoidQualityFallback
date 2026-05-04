@@ -1,0 +1,11 @@
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.deps.json
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\bin\Debug\netstandard2.1\ExamplePlugin.pdb
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.sourcelink.json
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.dll
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\ExamplePlugin\obj\Debug\netstandard2.1\ExamplePlugin.pdb
