@@ -2,7 +2,7 @@
 This is a mod that adds fallback compatibility to [Goorakh's Quality mod for Risk of Rain 2](https://thunderstore.io/package/Goorakh/Quality/). This affects modded void items that do not have a quality variant, such as those from [VanillaVoid](https://thunderstore.io/package/Zenithrium/VanillaVoid/) and [Nautilus](https://thunderstore.io/package/hex3/Nautilus/).
 
 ## The Problem
-As of 2026-05-04, the current functionality of Quality causes the complete loss of quality on modded void items. This can lead to the player not scaling properly when they convert large amounts of their items to their void counterparts, as the Quality mod increases difficulty scaling.
+As of 2026-05-04, the current functionality of Quality causes the complete loss of quality on modded void items when the original items are converted. This can lead to the player not scaling properly when they convert large amounts of their items to their void counterparts, as the Quality mod increases difficulty scaling.
 
 ## The Solution
 This mod causes the game to check if the player has quality items with a void variant. If the void variant does not have quality variants added via Quality or another mod, it replaces all of the quality and non-quality items with the non-quality void variant upon pickup of a relevant void item. As compensation for the lost quality, it transfers the quality of the lost items on to random, non-quality items of the same rarity in the player's inventory in a random order.
