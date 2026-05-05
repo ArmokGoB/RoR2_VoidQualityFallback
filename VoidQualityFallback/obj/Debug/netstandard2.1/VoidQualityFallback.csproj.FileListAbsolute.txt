@@ -20,3 +20,7 @@ C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\obj
 C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\obj\Debug\netstandard2.1\VoidQualityFallback.sourcelink.json
 C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\obj\Debug\netstandard2.1\VoidQualityFallback.dll
 C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\obj\Debug\netstandard2.1\VoidQualityFallback.pdb
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\bin\Debug\netstandard2.1\ItemQualities.dll
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\bin\Debug\netstandard2.1\RiskOfOptions.dll
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\bin\Debug\netstandard2.1\RiskOfOptions.pdb
+C:\Users\alexa\Documents\GitHub\RoR2_VoidQualityFallback\VoidQualityFallback\obj\Debug\netstandard2.1\VoidQual.1B7533E8.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VoidQualityFallback")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5661174f460d5e3814cba58cff12ea3e99e5cfbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b662f8f0a6cd63a2ff783cd5ab8a71c85a74170")]
 [assembly: System.Reflection.AssemblyProductAttribute("VoidQualityFallback")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VoidQualityFallback")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

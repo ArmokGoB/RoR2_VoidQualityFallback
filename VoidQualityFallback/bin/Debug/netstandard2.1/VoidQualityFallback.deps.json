@@ -14,7 +14,9 @@
           "R2API.Items": "1.0.8",
           "R2API.Language": "1.0.1",
           "RiskOfRain2.GameLibs": "1.4.1-r.0",
-          "RoR2BepInExPack": "1.43.0"
+          "RoR2BepInExPack": "1.43.0",
+          "ItemQualities": "0.0.0.0",
+          "RiskOfOptions": "2.0.0.0"
         },
         "runtime": {
           "VoidQualityFallback.dll": {}
@@ -376,6 +378,22 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "ItemQualities/0.0.0.0": {
+        "runtime": {
+          "ItemQualities.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "RiskOfOptions/2.0.0.0": {
+        "runtime": {
+          "RiskOfOptions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.8.5.0"
+          }
+        }
       }
     }
   },
@@ -552,6 +570,16 @@
       "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
       "path": "system.threading/4.3.0",
       "hashPath": "system.threading.4.3.0.nupkg.sha512"
+    },
+    "ItemQualities/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RiskOfOptions/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
