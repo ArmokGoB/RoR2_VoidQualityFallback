@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.AddressableAssets;
 using VoidQualityFallback.Utils;
 
-namespace ExamplePlugin
+namespace VoidQualityFallback
 {
     // This is an example plugin that can be put in
     // BepInEx/plugins/ExamplePlugin/ExamplePlugin.dll to test out.
