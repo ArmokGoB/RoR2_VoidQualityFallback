@@ -1,8 +1,7 @@
 ﻿{
-	"name": "Void Quality Fallback",
-	"version_number": "1.0.0-beta",
-	"website_url": "",
-	"description": "Void item fallback compatibility patch for Goorakh's Quality mod'",
+	"name": "VoidQualityFallback",
+	"version_number": "0.8.0",
+	"description": "Void item fallback compatibility patch for Goorakh's Quality mod",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
 		"RiskofThunder-HookGenPatcher-1.2.3",
